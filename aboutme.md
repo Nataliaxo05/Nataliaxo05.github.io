@@ -13,3 +13,5 @@ In my free time i basically do one of these:
  - listen to music or watch movies
  - studying (obviously)
  - ride horses - it has been my hobby for at least 9 years and still is, here is photo of me and a horse I've been taking care of for a month
+
+![Hora](/assets/img/photo.jpg)
